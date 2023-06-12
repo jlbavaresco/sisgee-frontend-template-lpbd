@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "SISGEE - LPBD",
+  "name": "Sistema de gerenciamento de salas e prédios - Disciplina LPBD",
   "icons": [
     {
       "src": "favicon.ico",
